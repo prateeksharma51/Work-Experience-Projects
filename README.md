@@ -1,5 +1,5 @@
 # Work-Experience-Projects
-Since the nature of my project restricts me from sharing the data that I have worked on as It is Confidential I am going to share snippets of the work that I did and walk through the process I followed. 
+Since the nature of my project restricts me from sharing the data that I have worked on as It is Confidential. I am going to share snippets of the work that I did and walk through the process I followed. 
 - Project Required people to manually analyse data on Excel sheets and label the rows as 'valid_mapping' if the columns representing "Customer Details" and "Party Details" had similar records like their names and addresses. 
 ### Here is a List of features :
 ['CUSTOMER_ID', 'ADDRESS_ID', 'SITE_ID', 'SOURCE_SYSTEM_NAME',
@@ -34,7 +34,7 @@ Since the nature of my project restricts me from sharing the data that I have wo
 
 - Also vectorized the categorical data in fileds like "City", "Country" e.t.c. 
 
-### Applid Logistic regression On the dataset, did hyperparamater tuning and managed to get a test log loss of 0.1221
+### Applied Logistic regression On the dataset, did hyperparamater tuning and managed to get a test log loss of 0.1221
 ![Logistic Regression](https://github.com/prateeksharma51/Work-Experience-Projects/blob/master/Images/Screenshot%20(3).png)
-### Given the good result after merely applying Logisic regression led me to apply xgboost on the same and ended up with a Test Accuracy of 0.9733 and AUC Score of 0.977646. 
+### Given the staggering yet surprising results after merely applying Logisic regression led me to apply xgboost on the same and ended up with a Test Accuracy of 0.9733 and AUC Score of 0.977646. 
 ![XGBoost](https://github.com/prateeksharma51/Work-Experience-Projects/blob/master/Images/Screenshot%20(4).png)
